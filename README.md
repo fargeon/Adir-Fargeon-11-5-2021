@@ -10,7 +10,7 @@ and uses Redux and React-Redux libraries to pass data throughout the components.
 The app is composed of two screens:
   Screen 1- Weather screen:
     Displays the current city weather and forecast for the next 5 days.
-    The main screen is composed with the following components:
+    The main screen is composed of the following components:
       1. Search button- will open a window with a search field.
       2. Favorite button- saves the current location as favorite.
       3. Search bar- Writing a text into the text box will trigger an autocomplete API.
